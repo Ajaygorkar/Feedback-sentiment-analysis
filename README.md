@@ -11,14 +11,18 @@ This project tries to give an overall idea of the comments and classifies the re
 ## Tech stack
 
 ```
-python, numpy, pandas, nltk, flask, xgboost
+python, numpy, pandas, nltk, flask, xgboost, heroku
 ```
 
 
 
 ## Architecture
 
-![](.\images\net.png)
+
+
+## <img src="https://github.com/Ajaygorkar/Feedback-sentiment-analysis/blob/master/images/net.png" alt="drawing" width="500px"/>
+
+
 
 ## App Screenshots
 
